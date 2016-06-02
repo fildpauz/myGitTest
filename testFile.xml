@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <document>
-  <element>
-    information 1
+  <element id="1">
+    インフォメーション 1
   </element>
-  <element>
-    information 2
+  <element id="2">
+    インフォメーション 2
   </element>
-  <element>
+  <element id="3">
     information 3
   </element>
-  <element>
+  <element id="4">
     information 4
   </element>
 </document>
